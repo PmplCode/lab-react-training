@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.idCard {
+  display: flex;
+  border: 1px solid black;
+}
+
+.idCard div {
+  text-align: left;
+}
